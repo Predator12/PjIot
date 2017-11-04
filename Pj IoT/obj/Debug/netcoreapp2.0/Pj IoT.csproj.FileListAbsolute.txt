@@ -1,0 +1,12 @@
+A:\Project\Pj IoT\Pj IoT\bin\Debug\netcoreapp2.0\Pj IoT.deps.json
+A:\Project\Pj IoT\Pj IoT\bin\Debug\netcoreapp2.0\Pj IoT.runtimeconfig.json
+A:\Project\Pj IoT\Pj IoT\bin\Debug\netcoreapp2.0\Pj IoT.runtimeconfig.dev.json
+A:\Project\Pj IoT\Pj IoT\bin\Debug\netcoreapp2.0\Pj IoT.dll
+A:\Project\Pj IoT\Pj IoT\bin\Debug\netcoreapp2.0\Pj IoT.pdb
+A:\Project\Pj IoT\Pj IoT\obj\Debug\netcoreapp2.0\Pj IoT.csprojResolveAssemblyReference.cache
+A:\Project\Pj IoT\Pj IoT\obj\Debug\netcoreapp2.0\Pj IoT.csproj.CoreCompileInputs.cache
+A:\Project\Pj IoT\Pj IoT\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+A:\Project\Pj IoT\Pj IoT\obj\Debug\netcoreapp2.0\Pj IoT.AssemblyInfoInputs.cache
+A:\Project\Pj IoT\Pj IoT\obj\Debug\netcoreapp2.0\Pj IoT.AssemblyInfo.cs
+A:\Project\Pj IoT\Pj IoT\obj\Debug\netcoreapp2.0\Pj IoT.dll
+A:\Project\Pj IoT\Pj IoT\obj\Debug\netcoreapp2.0\Pj IoT.pdb
