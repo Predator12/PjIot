@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "A:\\Project\\Pj IoT\\Pj IoT\\Pj IoT.csproj",
+      "projectUniqueName": "A:\\Project\\PjIot\\Pj IoT\\Pj IoT.csproj",
       "projectName": "Pj IoT",
-      "projectPath": "A:\\Project\\Pj IoT\\Pj IoT\\Pj IoT.csproj",
+      "projectPath": "A:\\Project\\PjIot\\Pj IoT\\Pj IoT.csproj",
       "packagesPath": "C:\\Users\\PREDATOR\\.nuget\\packages\\",
-      "outputPath": "A:\\Project\\Pj IoT\\Pj IoT\\obj\\",
+      "outputPath": "A:\\Project\\PjIot\\Pj IoT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
